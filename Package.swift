@@ -9,8 +9,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "Kingfisher",
-            path: "Sources"
+            name: "Kingfisher"
         )
     ]
 )
