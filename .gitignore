@@ -83,6 +83,7 @@ pre-change.yml
 .build
 fastlane/README.md
 /Kingfisher-TestImages
+.docc-build
 
 .bundle/
 vendor/
